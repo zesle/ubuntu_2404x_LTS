@@ -1,0 +1,20 @@
+Package: ze-nginx
+Version: 1.26.3-1
+Architecture: amd64
+Maintainer: Surjit Sidhu <mail@surjitsidhu.com>
+Installed-Size: 1612
+Depends: libbrotli1 (>= 0.6.0), libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4)
+Conflicts: apache2, apache24, nginx
+Filename: pool/noble/main/ze-nginx_1.26.3-1_amd64.deb
+Size: 557738
+MD5sum: 18301fed120e665896c33b9c6781fa3b
+SHA1: c8a97c44b0219887618d703d017753c47aa32f00
+SHA256: c0101e1b042323206aba4f3d7519b7b75651649101c020431a42fddd37dd033b
+Section: extra
+Priority: Priority
+Homepage: https://nginx.org
+Description: NGINX is a high performance web server that is
+ configured as a caching reverse-proxy by default.
+ This setup results in faster time to first byte
+ and often less load on a busy server.
+

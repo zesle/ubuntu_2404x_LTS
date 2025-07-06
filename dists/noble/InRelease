@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Zesle Software Inc
+Label: ZesleCP Repo
+Suite: noble
+Version: 
+Codename: noble
+Architecture: amd64
+Component: main
+Description: ZesleCP Noble 
+Date: Sun, 06 Jul 2025 00:35:18 +0000
+MD5Sum:
+ 50111ccfbf60e1b8a07eeb6688f87d8d              188 Release
+ 45a0ce150a3b7e34b1f13ab5ae09b90f              792 main/binary-amd64/Packages
+ 9fc2d54bc43be1d0eca91cb1af17c461              595 main/binary-amd64/Packages.bz2
+ 49e57de3310997931e22cf35af18c6f9              558 main/binary-amd64/Packages.gz
+SHA1:
+ 66b288c5c20aaab88a923f9e4a41266197118a96              188 Release
+ 49cd231724d43a88bc61fa82d2bce119126c9444              792 main/binary-amd64/Packages
+ 6cf423c45e63af277539346f9c0b0b5bdfc5186e              595 main/binary-amd64/Packages.bz2
+ b73287dabf1a5ab2af1274fe6ac9aebd37cea2da              558 main/binary-amd64/Packages.gz
+SHA256:
+ a555bc0cc2e5c458611b77e801f4786c39c8b2aca0ee0740cebe7bf045b0a4d4              188 Release
+ a1d00aa5c5c6263ab1164db65ed7fb94a669c99d82da6bdc13b309d5ee3dcbd5              792 main/binary-amd64/Packages
+ de32f82462d1c27a1aea32889ee457acaae9763c029d7745dc817bbcd57c2a01              595 main/binary-amd64/Packages.bz2
+ c57800a94ef51757862e55dea832677f210b6820f3c93a418a083c0a854f3409              558 main/binary-amd64/Packages.gz
+SHA512:
+ f1c38651131ea0f4122d39ae72cc28a502c1cc62892cafd32abcfb864d8ac701ddb4acfd04d34233ce03ef4fcf2ee77fca12a44af66f0fe4f02e0f9ddea5c0bb              188 Release
+ 65235d840bb5e07104de7556263d85f0d7c87e361d7ffa1b13819a83da993a9f1150875ba5366f6dd2f3b42538aec8aea263178aed6418bbc74af76fc97d506f              792 main/binary-amd64/Packages
+ 3698f74e9ee148b06c1f0d675e56d8856631639d9df608c6c6129952f9a3216af1fa5b796e6723d826ffb12a7b963fcc6ed9c03faa6158cc0eeb227fcdbd82b6              595 main/binary-amd64/Packages.bz2
+ d8bc2053d61171e29fbafb554d2715202a8189d35c8ba4f9ccf474f03f72ac29879f2f6104990e791dd7658b97ffd8b89f165b857faf2f0198dc5ff15a1fda74              558 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEE031QYQOc5wN/QymIWl7FNN5scMFAmhpxMYACgkQIWl7FNN5
+scPF0Qv+LazTt8MO7Iq+eZfVGPT5n0xapHbrjOewtBzKxbFmG1iKO1LIafikGdhl
+YDdN7dcudfIdFcLSmkMBNSowgEA4ljGteL5rTzsV80LYomuxnzRxmukgfDQjpjfS
+bf5qqaJfXcUHyjXGvYCQK6UuyYcsbfVMf9Xq3zvxg2fkGtSi/Pn86GjBj9Lr0sBT
+ZP28/YAysGUz8r6ooKroLC3h0xtSRde5TwHmIu6zFP03H8G4JLj9RL2XtRRqiXTH
+PQdfR9KR/rM3hJdcnqsJK/DnrXMYRSuFRpMoPuXa2aCi1RijhjHD7SqTNAGwYm09
+gmwkkoO9ARt5xbYXaBb5CONEtVKAc15iHUk8mS5ZinWCo25QyWr8uM8WfLGe0ypb
+xMGOAPvwg7oDqHSURV7YJJ6qTPQ0MOucC5xBn62D1KMpfvgfRihSyt3mCH00Rq4g
+ADmsNSkCX4E6K4yaoV/FHX/hEJqIPF0gXHozDzxP5nO9AKc2AKiMNQC7k0mh/jBY
+chMwmhdh
+=yq+V
+-----END PGP SIGNATURE-----

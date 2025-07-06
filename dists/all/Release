@@ -1,0 +1,29 @@
+Origin: Zesle Software Inc
+Label: ZesleCP Repo
+Suite: all
+Version: 
+Codename: all
+Architecture: amd64
+Component: main
+Description: ZesleCP All 
+Date: Sun, 06 Jul 2025 00:35:18 +0000
+MD5Sum:
+ c97f9b1e9b7feb4d4c210e7400df4e42              182 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
+ 4059d198768f9f8dc9372dc1c54bc3c3               14 main/binary-amd64/Packages.bz2
+ 7e5f928e6261111eb40f5c9621f746bf               29 main/binary-amd64/Packages.gz
+SHA1:
+ 459d88d25e4baa9603d95468841f9be7e79ae4ce              182 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
+ 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2               14 main/binary-amd64/Packages.bz2
+ e46826a701a4c600ce4644857be7946bde7454ee               29 main/binary-amd64/Packages.gz
+SHA256:
+ f0915683978dae89db64da8c5087f01e0cea4d7d918b89618aa00dd70741c3fe              182 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058               14 main/binary-amd64/Packages.bz2
+ f351902436c0eee91cb70dc416de85bd563ec278580c06a252e7f15830046bb0               29 main/binary-amd64/Packages.gz
+SHA512:
+ 3302d12fc18ad70278bd7ea0b1d454ccdefdee13f0632e05ba20c5589f834af882cdfc700c55ed174b0e452754184a7a53614827a12e4876f35e14f24a89bc71              182 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
+ 6de201dfed1d45412509c65deb34690dc2d09c6aafccfe491fd2f440f92842b9c755b61dc7bcdd4cc0c9f18cf46c2b3a1241e99c4c2a33fff5555e7b2f0b6348               14 main/binary-amd64/Packages.bz2
+ 0214fedd741227439e12f475ba3a3f725638c16482a6997d8afeb22f27a8c36bfdc69a07d1c75dbe3c132863e0155642a9d9e298ccebc8ae618c954444955d18               29 main/binary-amd64/Packages.gz
